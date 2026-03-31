@@ -56,7 +56,7 @@ Generates a personalized open-source philosophy statement based on user input.
 3. Navigate to project folder:
 
    ```bash
-   cd oss-audit-24BCE10436
+   cd oss-audit-24BCE10965
    ```
 
 4. Make scripts executable:
